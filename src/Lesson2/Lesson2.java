@@ -21,7 +21,6 @@ public class Lesson2 {
         } else {
             System.out.println("False");
         }
-
         if (aLessThenB) {
             System.out.println("a < b");
         } else {
@@ -41,7 +40,6 @@ public class Lesson2 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("\nВведите число:");
         int num = scanner.nextInt();
-
         if (num % 2 == 0) {
             System.out.println("Четное");
         } else {
