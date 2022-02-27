@@ -19,10 +19,8 @@ public class AdvancedTask1 {
 
         System.out.println("\nEnter your surname");
         String userSurname = userInput.nextLine();
-
         System.out.println("Enter your name");
         String userName = userInput.nextLine();
-
         System.out.println("Enter your age");
         int userAge = userInput.nextInt();
 
