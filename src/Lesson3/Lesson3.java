@@ -35,8 +35,7 @@ public class Lesson3 {
         }
         System.out.println("\nКоличество високосных лет - " + leapYear);
     }
-        public static int magic(int x){
-            return x == 10 ? 1 : 0;
-        }
+    public static int magic(int x){
+        return x == 10 ? 1 : 0;
     }
-
+}
