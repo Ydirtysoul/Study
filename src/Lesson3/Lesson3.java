@@ -28,7 +28,6 @@ public class Lesson3 {
             if (year % 4 == 0) {
                 leapYear++;
                 year++;
-
             } else {
                 year++;
             }
