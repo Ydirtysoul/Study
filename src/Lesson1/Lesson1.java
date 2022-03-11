@@ -13,7 +13,8 @@ public class Lesson1 {
         System.out.println("Произведение " + multiply);
         int difference = value1 - value2;
         System.out.println("Разность " + difference);
-        String scanner = (new Scanner(System.in)).next();
-        System.out.println(scanner);
+        Scanner userInput = new Scanner;
+        String str = userInput.nextLine();
+        System.out.println(str);
     }
 }
