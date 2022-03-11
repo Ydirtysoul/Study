@@ -36,7 +36,7 @@ public class Lesson2 {
             System.out.println("False");
         }
 
-        System.out.println("\nEnter an integer:");
+        System.out.println("\nEnter the integer:");
         int num = checkInput();
         if (num % 2 == 0) {
             System.out.println("Even");
